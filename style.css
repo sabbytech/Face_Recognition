@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+    color:black;
+}
+.ImageRecognition {
+    width: 85%;
+    font-size: 30px;
+}
+.objects {
+    color: red;
+}
+
+#camera{
+    width:400px ;
+    height: 300px;
+    border: black 3px solid;
+}
+
+#captured_image{
+    width:400px;
+    height: 300px;
+    border: dotted black 3px;
+}
+#item, #accuracy{
+    color: white;
+}
